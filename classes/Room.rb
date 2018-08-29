@@ -1,6 +1,5 @@
 require 'json'
-raw = File.read('./data/desc.json')
-$data = JSON.parse(raw)
+require './utils/copy.rb'
 
 class Room
     def initialize( type, items )
@@ -9,7 +8,7 @@ class Room
     end
 
     def look
-        puts $data['room'][@type]
+        puts $desc['room'][@type]
         puts "Around the #{@type}, you see:"
         for item in @items
             puts item
