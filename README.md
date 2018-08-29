@@ -2,4 +2,6 @@
 
 🏰 A text-based mystery game in Ruby
 
-McPherson's Mansion is losely based on faint recollections of playing [McMurphy's Mansion](https://www.myabandonware.com/game/mcmurphys-mansion-271/play-271) on an old Packard Bell computer in my parents' dining room.
+*McPherson's Mansion* is losely based on faint recollections of playing [*McMurphy's Mansion*](https://www.myabandonware.com/game/mcmurphys-mansion-271/play-271) on an old Packard Bell computer in my parents' dining room.
+
+This game is a vehicle to learn the syntax and semantics of Ruby.
