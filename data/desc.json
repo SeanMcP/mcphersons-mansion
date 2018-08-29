@@ -1,4 +1,8 @@
 {
+    "item": {
+        "bookshelf": "A tall, multi-tiered shelf with many leather-bound books.",
+        "chest": "A wooden chest with ornate bronze hardware."
+    },
     "room": {
         "bedroom": "A bedroom"
     }
